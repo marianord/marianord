@@ -4,7 +4,7 @@
 
 > Boring infrastructure for serious problems.
 
-**Engineering Manager @ Covalynt** · **AWS UG Mixtli Leader** · Cholula, México 🇻🇪🇲🇽
+**Senior Engineering Manager @ Covalynt** · **AWS UG Mixtli Leader** · Puebla, México 🇻🇪🇲🇽
 
 I build and operate cloud platforms for environments where mistakes are
 expensive. Sensitive data, compliance, audit trails, customers where a
@@ -40,4 +40,4 @@ perspective on cloud.
 
 ---
 
-<sub>If your infra is exciting, something is wrong.</sub>
+<sub>If your infra is exciting, something might be wrong.</sub>
